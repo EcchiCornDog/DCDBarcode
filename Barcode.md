@@ -20,3 +20,22 @@
 |Ex-Aid|Kamen Ride|00011000111|
 |Build|Kamen Ride|00111011101|
 |Zi-O|Kamen Ride|00111101101|
+|Kuuga|Final Kamen Ride|00000011111|
+|Agito|Final Kamen Ride|00000101111|
+|Ryuki|Final Kamen Ride|00000111001|
+|Blade|Final Kamen Ride|00001100111|
+|Hibiki|Final Kamen Ride|00001101001|
+|Kabuto|Final Kamen Ride|00010001111|
+|Den-O|Final Kamen Ride|00001110001|
+|Kiva|Final Kamen Ride|00010010111|
+|Decade|Final Kamen Ride|00000001101|
+|W|Final Kamen Ride|01001010001|
+|OOO|Final Kamen Ride|01100011011|
+|Fourze|Final Kamen Ride|01100100001|
+|Wizard|Final Kamen Ride|01101001011|
+|Gaim|Final Kamen Ride|01110000001|
+|Drive|Final Kamen Ride|01110110101|
+|Ghost|Final Kamen Ride|10000110001|
+|Ex-Aid|Final Kamen Ride|10001100001|
+|Build|Final Kamen Ride|10010010001|
+|Zi-O|Final Kamen Ride||
