@@ -21,12 +21,14 @@
 |Build|Kamen Ride||001 1101 1101|
 |Zi-O|Kamen Ride||001 1110 1101|
 |Kuuga Ultimate|Kamen Ride|Final Form|000 0001 1111|
+|Kuuga Rising Ultimate|Kamen Ride|Extra Final Form|000 1001 1001|
 |Agito Shining|Kamen Ride|Final Form|000 0010 1111|
 |Ryuki Survive|Kamen Ride|Final Form|000 0011 1001|
 |Blade King|Kamen Ride|Final Form|000 0110 0111|
 |Hibiki Armed|Kamen Ride|Final Form|000 0110 1001|
 |Kabuto Hyper|Kamen Ride|Final Form|000 1000 1111|
-|Den-O Liner|FKamen Ride|Final Form|000 0111 0001|
+|Den-O Liner|Kamen Ride|Final Form|000 0111 0001|
+|Den-O Chou Climax|Kamen Ride|Extra Final Form|000 1010 1001|
 |Kiva Emperor|Kamen Ride|Final Form|000 1001 0111|
 |Decade Complete|Kamen Ride|Final Form|000 0000 1101|
 |W Xtreme|Kamen Ride|Final Form|010 0101 0001|
