@@ -20,6 +20,8 @@
 |Ex-Aid|Kamen Ride||000 1100 0111|
 |Build|Kamen Ride||001 1101 1101|
 |Zi-O|Kamen Ride||001 1110 1101|
+|Skull|Kamen Ride||000 1011 0001|
+|Blank Ride Card|Kamen Ride||011 0111 1111|
 |Kuuga Ultimate|Kamen Ride|Final Form|000 0001 1111|
 |Kuuga Rising Ultimate|Kamen Ride|Extra Final Form|000 1001 1001|
 |Agito Shining|Kamen Ride|Final Form|000 0010 1111|
