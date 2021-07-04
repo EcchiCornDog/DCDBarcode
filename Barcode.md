@@ -1,6 +1,7 @@
 
 |Kamen Rider|Card Ride|Notes|Barcode|
 |-----------|---------|-----|-------|
+|Blank Ride Card|Kamen Ride||011 0111 1111|
 |Ichigo|Kamen Ride||111 1000 1101|
 |Nigo|Kamen Ride||000 1011 1011|
 |V3|Kamen Ride||010 1101 1101|
@@ -35,8 +36,8 @@
 |Ex-Aid|Kamen Ride||000 1100 0111|
 |Build|Kamen Ride||001 1101 1101|
 |Zi-O|Kamen Ride||001 1110 1101|
+|Zero-One|Kamen Ride||001 0111 0011|
 |Skull|Kamen Ride||000 1011 0001|
-|Blank Ride Card|Kamen Ride||011 0111 1111|
 |Kuuga Ultimate|Kamen Ride|Final Form|000 0001 1111|
 |Kuuga Rising Ultimate|Kamen Ride|Extra Final Form|000 1001 1001|
 |Agito Shining|Kamen Ride|Final Form|000 0010 1111|
@@ -89,4 +90,3 @@
 |Kiva|Final Form Ride||000 0100 0101|
 |Decade|Final Form Ride||011 0010 1011|
 |W|Final Form Ride||111 1101 1001|
-
