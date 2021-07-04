@@ -1,6 +1,21 @@
 
 |Kamen Rider|Card Ride|Notes|Barcode|
 |-----------|---------|-----|-------|
+|Ichigo|Kamen Ride||111 1000 1101|
+|Nigo|Kamen Ride||000 1011 1011|
+|V3|Kamen Ride||010 1101 1101|
+|Riderman|Kamen Ride||111 1000 0011|
+|X|Kamen Ride||100 0110 1011|
+|Amazon|Kamen Ride||100 0011 1011|
+|Stronger|Kamen Ride||110 0100 1011|
+|Skyrider|Kamen Ride||010 0000 1111|
+|Super-1|Kamen Ride||101 1101 0101|
+|ZX	|Kamen Ride||110 1001 0011|
+|Black|Kamen Ride||001 1010 1011|
+|Black RX|Kamen Ride||101 1010 1101|
+|Shin|Kamen Ride||	010 1001 0001|
+|ZO|Kamen Ride||101 1000 1011|
+|J|Kamen Ride||111 0110 0101|
 |Kuuga|Kamen Ride||100 0111 1101|
 |Agito|Kamen Ride||011 0011 1101|
 |Ryuki|Kamen Ride||000 0100 1111|
