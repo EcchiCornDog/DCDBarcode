@@ -20,22 +20,22 @@
 |Ex-Aid|Kamen Ride||00011000111|
 |Build|Kamen Ride||00111011101|
 |Zi-O|Kamen Ride||00111101101|
-|Kuuga|Kamen Ride|Final Form|00000011111|
-|Agito|Kamen Ride|Final Form|00000101111|
-|Ryuki|Kamen Ride|Final Form|00000111001|
-|Blade|Kamen Ride|Final Form|00001100111|
-|Hibiki|Kamen Ride|Final Form|00001101001|
-|Kabuto|Kamen Ride|Final Form|00010001111|
-|Den-O|FKamen Ride|Final Form|00001110001|
-|Kiva|Kamen Ride|Final Form|00010010111|
-|Decade|Kamen Ride|Final Form|00000001101|
-|W|Kamen Ride|Final Form|01001010001|
-|OOO|Kamen Ride|Final Form|01100011011|
-|Fourze|Kamen Ride|Final Form|01100100001|
-|Wizard|Kamen Ride|Final Form|01101001011|
-|Gaim|Kamen Ride|Final Form|01110000001|
-|Drive|Kamen Ride|Final Form|01110110101|
-|Ghost|Kamen Ride|Final Form|10000110001|
-|Ex-Aid|Kamen Ride|Final Form|10001100001|
-|Build|Kamen Ride|Final Form|10010010001|
-|Zi-O|Kamen Ride|Final Form||
+|Kuuga Ultimate|Kamen Ride|Final Form|00000011111|
+|Agito Shining|Kamen Ride|Final Form|00000101111|
+|Ryuki Survive|Kamen Ride|Final Form|00000111001|
+|Blade King|Kamen Ride|Final Form|00001100111|
+|Hibiki Armed|Kamen Ride|Final Form|00001101001|
+|Kabuto Hyper|Kamen Ride|Final Form|00010001111|
+|Den-O Liner|FKamen Ride|Final Form|00001110001|
+|Kiva Emperor|Kamen Ride|Final Form|00010010111|
+|Decade Complete|Kamen Ride|Final Form|00000001101|
+|W Xtreme|Kamen Ride|Final Form|01001010001|
+|OOO PuToTyra|Kamen Ride|Final Form|01100011011|
+|Fourze Cosmic|Kamen Ride|Final Form|01100100001|
+|Wizard Infinity|Kamen Ride|Final Form|01101001011|
+|Gaim Kiwami|Kamen Ride|Final Form|01110000001|
+|Drive Tridoron|Kamen Ride|Final Form|01110110101|
+|Ghost Mugen|Kamen Ride|Final Form|10000110001|
+|Ex-Aid Muteki|Kamen Ride|Final Form|10001100001|
+|Build Genius|Kamen Ride|Final Form|10010010001|
+|Zi-O Grand|Kamen Ride|Final Form||
