@@ -48,7 +48,7 @@
 |Kabuto|Final Attack Ride||001 0010 0111|
 |Den-O|Final Attack Ride||100 0000 1111|
 |Kiva|Final Attack Ride||101 0101 0011|
-|DCD|Final Attack Ride||111 0101 0101|
+|Decade|Final Attack Ride||111 0101 0101|
 |W|Final Attack Ride||100 1110 1101|
 |OOO|Final Attack Ride||101 0000 0111|
 |Fourze|Final Attack Ride||101 0011 0011|
@@ -59,4 +59,15 @@
 |Ex-Aid|Final Attack Ride||110 1111 0111|
 |Build|Final Attack Ride||111 0001 0011|
 |Zi-O|Final Attack Ride||000 0111 1011|
+|Kuuga|Final Form Ride||011 0101 1101|
+|Agito|Final Form Ride||101 0100 1011|
+|Ryuki|Final Form Ride||000 0101 1001|
+|Faiz|Final Form Ride||110 0011 0011|
+|Blade|Final Form Ride||101 1111 0111|
+|Hibiki|Final Form Ride||011 0001 0001|
+|Kabuto|Final Form Ride||111 0011 0101|
+|Den-O|Final Form Ride||111 0010 0011|
+|Kiva|Final Form Ride||000 0100 0101|
+|Decade|Final Form Ride||011 0010 1011|
+|W|Final Form Ride||111 1101 1001|
 
